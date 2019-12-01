@@ -11,7 +11,7 @@ PDS_9186_ex2_report.pdf
 
 ## Elearning Tester
 ### Directory
-test/
+tester/
 ### Instructions to testing
 make_sequential
 make_mpi
