@@ -16,4 +16,5 @@ tester/
 make_sequential
 make_mpi
 
-## Local Tester directory
+## Ex2 report
+knn-ring-mpi.pdf
